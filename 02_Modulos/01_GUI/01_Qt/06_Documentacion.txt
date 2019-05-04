@@ -1,0 +1,4 @@
+https://www.riverbankcomputing.com/static/Docs/PyQt5/
+https://www.riverbankcomputing.com/static/Docs/PyQt5/module_index.html#ref-module-index
+https://www.riverbankcomputing.com/static/Docs/PyQt5/sip-classes.html
+https://www.riverbankcomputing.com/static/Docs/PyQt5/api/qtwidgets/qpushbutton.html#
